@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  background-color: gold;
+}
+
+h1 {
+  padding: 10px;
+  background-color: midnightblue;
+  color: whitesmoke;
+}
+
+h3 {
+  text-decoration-line: underline;
+}
+
+#list {
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 10px;
+  border: solid;
+  border-width: 1px;
+  background-color: aquamarine;
+}
+
+#button {
+  margin-left: 10px;
+}
